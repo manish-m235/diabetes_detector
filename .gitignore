@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Data/model artifacts (keep if you want them tracked by removing from here)
+# Uncomment these if you prefer not to push large binaries
+# *.pkl
+# *.joblib
+# *.csv
